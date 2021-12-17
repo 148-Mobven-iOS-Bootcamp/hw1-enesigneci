@@ -16,4 +16,5 @@ func fibonacci(low: Int, high: Int) -> Int {
 
     return result
 }
- 
+print("Count of Fibonacci Numbers is \(fibonacci(low: 750, high: 1000)))")
+
